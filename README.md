@@ -18,8 +18,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-
-
+![github](image/pdda.png)
+![github](image/pndd.png)
 
 
 ## Program
