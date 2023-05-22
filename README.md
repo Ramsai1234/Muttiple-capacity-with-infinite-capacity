@@ -18,8 +18,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-![](expp.png)
-![](expaa.png)
+![](pdda.png)
+![](pndd.png)
 
 
 ## Program
